@@ -14,9 +14,9 @@ By combining PoW-based BlockDAG nodes with a lightweight, mobile-ready, and user
 **Tokenomics Breakdown:**
 
 **Category	    Allocation	        % of Total Supply**
-Locked	      500,000,000	          50%
-Presale	      450,000,000	          45%
-Airdrop	      20,000,000	          2%
-Dev Wallet	  30,000,000	          3%
+Locked	      500,000,000	         ** 50%**
+Presale	      450,000,000	         ** 45%**
+Airdrop	      20,000,000	        **  2%**
+Dev Wallet	  30,000,000	         ** 3%**
 
 Copyright: © 2026 Isotope Foundation — All rights reserved.
